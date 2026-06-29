@@ -19,7 +19,7 @@ An IP address has two parts:
   
   eg:
   ```text
-  11111111.11111111.11111111.00000000       (Class A)
+  11111111.11111111.11111111.00000000       (Class C)....256 hosts
   |________________________| |______|
         Network bits         Host Bits
   ```
