@@ -63,5 +63,5 @@ Eg 2:
     15 Bits
 CIDR range: /15
 ```
-[](images3/subnet.jpeg)
+![](images3/subnet.jpeg)
 ## Network ID
