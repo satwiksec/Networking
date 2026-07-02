@@ -206,9 +206,9 @@ Broadcast Address
 ## Summary
 
 
- **IP Address** | Unique logical address assigned to a device. 
- **Subnet Mask** | Identifies the network and host portions of an IP address. 
- **CIDR** | Represents the number of network bits. 
- **Network ID** | First IP address of a subnet; identifies the network. 
- **Broadcast ID** | Last IP address of a subnet; sends data to all devices in the subnet. 
- **Usable Hosts** | Total addresses − 2 (Network ID and Broadcast ID). 
+- **IP Address** | Unique logical address assigned to a device. 
+- **Subnet Mask** | Identifies the network and host portions of an IP address. 
+- **CIDR** | Represents the number of network bits. 
+- **Network ID** | First IP address of a subnet; identifies the network. 
+- **Broadcast ID** | Last IP address of a subnet; sends data to all devices in the subnet. 
+- **Usable Hosts** | Total addresses − 2 (Network ID and Broadcast ID). 
